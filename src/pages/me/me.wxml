@@ -1,0 +1,26 @@
+<view class='base-padding row'>
+  <view class='user'>
+    <image src='../../assets/images/example/avatar.jpeg'></image>
+    <view class='username'>进击的皇虫</view>
+    <view class='color-grey font-lv3'>当你的知识再也支撑不起你的野心，该静下心来认真学习了。</view>
+  </view>
+</view>
+
+<view class='base-padding row base-info'>
+  <navigator url='/pages/bookself/bookself' class='col-12'>
+    <image src='../../assets/images/book.png'></image>
+    我的书架
+    <image class='pull-right'     src='../../assets/images/right-angle.png'></image>
+  </navigator>
+ 
+</view>
+
+<view class='base-padding row base-info'>
+  <navigator url='/pages/about/about' class='col-12'>
+    <image src='../../assets/images/about-us.png'></image>
+    关于我们 
+    <image class='pull-right' src='../../assets/images/right-angle.png'></image>
+  </navigator>
+ 
+</view>
+
